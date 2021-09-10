@@ -7,5 +7,5 @@ It is finally time to start writing this... A throughput analyzer with customiza
 
 - The program will include a circular buffer to replay error triggers
 - Can be integrated with traffic analyzers such as WireShark to investigate failure points
-- Useful for IoT devices as well as full-fledged distributed networs
+- Useful for IoT devices as well as full-fledged distributed networks
 
